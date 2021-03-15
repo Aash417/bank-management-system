@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Deposit",
+            "request": "launch",
+            "mainClass": "Deposit",
+            "projectName": "bank-management-system_84dec88"
+        },
+        {
+            "type": "java",
+            "name": "Launch Login",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "bank-management-system_84dec88"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pin",
+            "request": "launch",
+            "mainClass": "Pin",
+            "projectName": "bank-management-system_84dec88"
+        },
+        {
+            "type": "java",
+            "name": "Launch Signup",
+            "request": "launch",
+            "mainClass": "Signup",
+            "projectName": "bank-management-system_84dec88"
+        },
+        {
+            "type": "java",
+            "name": "Launch Signup2",
+            "request": "launch",
+            "mainClass": "Signup2",
+            "projectName": "bank-management-system_84dec88"
+        },
+        {
+            "type": "java",
+            "name": "Launch Signup3",
+            "request": "launch",
+            "mainClass": "Signup3",
+            "projectName": "bank-management-system_84dec88"
+        },
+        {
+            "type": "java",
+            "name": "Launch Transactions",
+            "request": "launch",
+            "mainClass": "Transactions",
+            "projectName": "bank-management-system_84dec88"
+        },
+        {
+            "type": "java",
+            "name": "Launch Withdrawl",
+            "request": "launch",
+            "mainClass": "Withdrawl",
+            "projectName": "bank-management-system_84dec88"
+        }
+    ]
+}
