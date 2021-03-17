@@ -12,6 +12,7 @@ this is a project that i modified/created with an another project .
       ~ withdraw
       ~ pin change
       ~ check balance
+- create a database name project in mysql and then import the project.sql file in it.      
       
 !...... to run whole project select login as the main class.......!     
       
