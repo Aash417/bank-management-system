@@ -13,6 +13,8 @@ this is a project that i modified/created with an another project .
       ~ pin change
       ~ check balance
       
+!...... to run whole project select login as the main class.......!     
+      
 If anybody would like to use and modify the software , feel free to do so.
 
 Thanks for your time ,see ya
